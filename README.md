@@ -1,6 +1,5 @@
 # SQL-NOTES-
 ALL NOTES OR PDF AS A DATA ANALYTICS TO HELP GROWING 💗
-# 📘 SQL Notes
 
 A beginner-friendly collection of SQL notes covering the most important concepts, commands, operators, and queries. These notes are designed for students, interview preparation, and anyone starting their SQL journey.
 
